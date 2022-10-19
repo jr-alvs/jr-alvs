@@ -55,7 +55,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jr-alvs/jr-alvs/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/jr-alvs/jr-alvs/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
