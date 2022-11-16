@@ -56,9 +56,3 @@
 ###
 
 ![Snake animation](https://github.com/jr-alvs/jr-alvs/blob/output/github-contribution-grid-snake.svg)
-
-###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=226kfwu5wtodop7mwylf737qy&unique={true|1|on|yes})
-
-###
